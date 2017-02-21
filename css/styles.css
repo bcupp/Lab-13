@@ -1,0 +1,48 @@
+.wordBox {
+  border: solid;
+  background-color: tan;
+}
+
+.pStyles {
+  display: inline-block;
+}
+
+
+.class1{
+  background-color: blue;
+  color: red;
+  border: dotted;
+}
+.class2{
+  background-color: pink;
+  color: yellow;
+  border: solid;
+  border-radius: 10%;
+
+}
+.class3{
+  color: purple;
+}
+.class4{
+  color: red;
+  border: dotted;
+}
+.class5{
+  background-color: red;
+  color: white;
+}
+.class6{
+  background-color: blue;
+  color: red;
+  border: dotted;
+  border-radius: 10%;
+}
+.class7{
+  background-color: grey;
+  color: green;
+}
+.class8{
+  background-color: green;
+  color: orange;
+  border: solid;
+}
